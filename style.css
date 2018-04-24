@@ -66,11 +66,11 @@ h6 {
 /*Hero Area*/
 
 .bg-1 {
-	background-image: url(./assets/img/hero-bg.jpg)
+	background-image: url(./assets/img/background.png)
 }
 
 .hero-bg {
-	height: 1000px;
+	height: 500px;
 	background-size: cover;
 	background-position: center;
 	color: #fff;
@@ -453,15 +453,15 @@ p.edu-summury {
 /*Portfolio area*/
 
 .protfolio-bg-1 {
-	background-image: url(./assets/img/portfolio-bg-1.jpg);
+	background-image: url(./assets/img/Portfolio1.png);
 }
 
 .protfolio-bg-2 {
-	background-image: url(./assets/img/portfolio-bg-2.jpg);
+	background-image: url(./assets/img/Portfolio2.png);
 }
 
 .protfolio-bg-3 {
-	background-image: url(./assets/img/portfolio-bg-3.jpg);
+	background-image: url(./assets/img/Portfolio3.png);
 }
 
 .protfolio-bg-4 {
