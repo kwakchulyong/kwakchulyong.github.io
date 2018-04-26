@@ -1,5 +1,3 @@
 # kwakchulyong.github.io
-my page
-
-
-https://kwakchulyong.github.io/
+It's my Github Homepage. https://kwakchulyong.github.io/
+I used open source Template.
